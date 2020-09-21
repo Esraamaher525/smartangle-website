@@ -1,0 +1,271 @@
+@font-face {
+    font-family: arabicFont;
+    src: url(/assets/fonts/ArbFONTS-Montserrat-Arabic-Regular.ttf);
+}
+
+body {
+    font-family: arabicFont !important;
+}
+
+h1, h2, h3, h4, h5, h6,.nav-menu a,.nav-menu .drop-down > a:after, .nav-menu .drop-down .drop-down > a:after,#hero .btn-get-started
+{
+    font-family: arabicFont !important;
+}
+
+#topbar .d-flex {
+    position: relative;
+    left: 55%;
+}
+
+
+#topbar .top-nav-phone , .top-nav-env , .site-email {
+    float: right;
+}
+
+#topbar .contact-info .phone-icon {
+    padding-right: 20px;
+    margin-right: 20px;
+    margin-left: -10px !important;
+}
+
+.mobile-nav-toggle {
+    position: sticky;
+    left: 5%;
+}
+
+#topbar .contact-info a {
+    line-height: 2;
+    margin-right: 5px;
+}
+
+#header-sticky-wrapper .nav-menu > ul > li {
+    float: right;
+    margin: 2px;
+}
+
+#header-sticky-wrapper .nav-menu {
+    position: relative;
+    left: 4%;
+}
+
+#info_about_6262 .icon-box h4,
+#how_to_use .icon-box h4
+{
+    float: right !important;
+}
+
+#info_about_6262 .icon-box i,
+#how_to_use .icon-box i{
+    float: right !important;
+}
+
+#info_about_6262 .icon-box p,
+#how_to_use .icon-box p {
+    margin-right: 70px;
+    line-height: 24px;
+    font-size: 14px;
+    display: inline-block;
+    text-align: right;
+}
+
+#iraq_in_numbers table {
+    direction: rtl;
+}
+
+#iraq_in_numbers table tr th,
+#iraq_in_numbers td{
+    text-align: right;
+}
+
+#footer .footer-top h4,#footer .footer-top h3 {
+    text-align: right;
+}
+#footer .footer-top .footer-info {
+    float: right;
+}
+
+#footer .footer-top .footer-info strong {
+    float: right;
+}
+
+.portfolio-details .portfolio-description p {
+    text-align: right !important;
+}
+
+.portfolio-details .download-btn {
+    float: right;
+}
+
+.logo {
+    position: relative;
+    left: 15%;
+}
+
+.topbar-social-links {
+    position: relative;
+    right: 60%;
+}
+
+.contact-info {
+    margin-top: 14px;
+    position: relative;
+    right: 50px;
+}
+
+#hero p {
+    text-align: right;
+    margin: 0;
+}
+
+#hero h3 {
+    text-align: right;
+}
+
+#hero .carousel-content {
+    padding-right: 20%;
+}
+
+#hero .carousel-indicators li {
+    right: -40% !important;
+}
+
+
+#hero .carousel-indicators {
+    right: 0;
+    bottom: 175px;
+    margin-left: 40%;
+}
+
+.about li {
+    text-align: right;
+}
+
+.about li:before {
+    right: 0;
+}
+
+#services {
+    direction: rtl;
+}
+
+#marketing h2 {
+    text-align: right;
+}
+
+#marketing .video-btn {
+    left: 50%;
+}
+
+.vision-img-first {
+    right: 0;
+}
+
+.vision-img-third {
+    right: 130px;
+}
+
+.vision-img-fourth {
+    right: 12%;
+}
+
+.vision-img-second {
+    right: 12%;;
+}
+
+.numbers-img-second {
+    right: 5%;
+}
+
+.marketing-paragraph, .marketing-heading {
+    text-align: right;
+}
+
+#activities .owl-stage-outer{
+    direction: ltr !important;
+}
+
+#activities p, #activities h4{
+    text-align: right;
+}
+
+#join-form label {
+    float: right;
+}
+
+#topbar .contact-info {
+    padding-top: 0;
+}
+#clients .client_social_media_div .data_list li {
+    left: 53px;
+}
+
+#mission h3 ,#mission p{
+    text-align: right;
+}
+
+#iraq_in_numbers .black-div a {
+    left: 115px;
+    margin: 0;
+}
+#iraq_in_numbers .black-div .iraq_in_numbers_list {
+    margin: 0;
+}
+
+#activities .activities-content {
+    direction: ltr;
+}
+
+/* width */
+#activities .activities-content::-webkit-scrollbar {
+    width: 5px;
+}
+
+/* Track */
+#activities .activities-content::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+/* Handle */
+#activities .activities-content::-webkit-scrollbar-thumb {
+    background: #888;
+}
+
+/* Handle on hover */
+#activities .activities-content::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+
+#footer .social-links {
+    float: right;
+}
+
+.services .icon-box p {
+    text-align: right;
+}
+
+.marketing-div {
+    direction: ltr;
+}
+
+.lang_span {
+    right: -8px !important;
+}
+
+
+.more_numbers_btn {
+    font-family: arabicFont !important;
+}
+
+#footer .footer-top .footer-info p {
+    text-align: right;
+}
+
+.mobile-nav * {
+    text-align: right;
+}
+
+.lang-li {
+    margin-top: 10px !important;
+
+}

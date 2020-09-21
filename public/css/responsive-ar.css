@@ -1,0 +1,118 @@
+@media only screen and (max-width: 768px) {
+    #hero {
+        top: -30px;
+    }
+    .mobile-nav-toggle {
+        right: 5%;
+    }
+
+    .vision-img-third {
+        right: 8%;
+    }
+    .vision-img-fourth {
+        right: 8% !important;
+    }
+    /*Arabic Style*/
+    .mobile-nav-toggle {
+        top: 25px;
+    }
+
+    .logo {
+        position: relative;
+        left: 70%;
+    }
+
+    .about li:before {
+        right: 16px !important;
+    }
+
+    .vision-img-first {
+        right: 30px !important;
+    }
+
+    .vision-img-second {
+        right: 7% !important;
+    }
+
+    .numbers-img-first {
+        height: 175px;
+        width: 320px;
+        right: -1%;
+    }
+
+    .numbers-img-second {
+        right: 2% !important;
+        width: 325px;
+        height: 195px;
+    }
+
+    #iraq_in_numbers .col-md-4 {
+        margin-bottom: 45px;
+    }
+
+    #iraq_in_numbers .iraq_in_numbers_h4{
+        margin-top: 80px !important;
+    }
+
+
+    #footer .footer-links{
+        width: 50%;
+    }
+
+    #footer .footer-top .footer-info h3, #footer .footer-top .footer-info p, #footer .social-links {
+        text-align: center;
+        float: initial;
+    }
+
+    #footer .footer-top .footer-links {
+        text-align: center;
+    }
+
+    #footer .footer-top .footer-links ul li {
+        display: block;
+    }
+
+    #footer .footer-top h4, #footer .footer-top h3 {
+        text-align: center;
+    }
+
+    #footer .footer-top .footer-info {
+        float: none !important;
+    }
+
+    #hero .carousel-indicators li {
+        right: 26px !important;
+    }
+
+    #hero .carousel-indicators li.active {
+        right: 26px !important;
+    }
+
+
+    #portfolio-details img {
+        width: 350px !important;
+        height: 225px !important;
+        position: relative;
+        right: 5px;
+    }
+
+
+
+}
+
+
+
+@media only screen and (max-width: 568px) {
+    .numbers-img-first {
+        width: 100%;
+    }
+
+    .numbers-img-second {
+        width: 100%;
+    }
+
+    #marketing {
+        width: 100%;
+    }
+
+}

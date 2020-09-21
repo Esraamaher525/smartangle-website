@@ -1,0 +1,317 @@
+@media only screen and (min-width: 769px) and (max-width: 992px) {
+
+    .vision-img-first {
+        border: 3px solid #01b1d7;
+        border-radius: 15px;
+        height: 175px;
+    }
+
+    .vision-img-second {
+        border: 2px solid #01b1d7;
+        position: relative;
+        border-radius: 15px;
+        height: 100%;
+        top: 15%;
+        width: 243px;
+        left: 2%;
+    }
+
+    .vision-img-second img {
+        width: 100%;
+        border-radius: 15px;
+        height: 100%;
+    }
+
+
+
+    .vision-img-third {
+        border: 3px solid #01b1d7;
+        border-radius: 15px;
+        height: 175px;
+    }
+
+    .vision-img-fourth {
+        border: 2px solid #01b1d7;
+        position: relative;
+        border-radius: 15px;
+        height: 100%;
+        top: 15%;
+        width: 243px;
+        left: 2%;
+    }
+
+    .vision-img-fourth img {
+        width: 100%;
+        border-radius: 15px;
+        height: 100%;
+    }
+
+
+}
+
+@media only screen and (min-width: 768px) {
+    #activities .card-img-top {
+        height: 344px;
+        width: 555px;
+    }
+}
+
+
+@media only screen and (max-width: 768px) {
+    .mobile-nav-toggle {
+        right: 5%;
+        z-index: 99999999;
+    }
+
+    #hero .carousel-content {
+        text-align: center;
+        padding: 11%;
+        margin-top: 35%;
+    }
+
+    .back-to-top {
+        right: 20px;
+        top: 90%;
+    }
+
+    .about li:before {
+        left: 14px;
+    }
+
+    .vision-img-third {
+        left: 2%;
+    }
+
+    .vision-img-fourth {
+        left: 0;
+    }
+
+    .vision-img-second {
+        left: 3%;
+        top: 20%;
+        border-radius: 15px;
+        width: 112%;
+    }
+
+    .mission_content{
+        margin-bottom: 40px;
+    }
+    .counts .counters span {
+        font-size: 40px;
+    }
+    .counts .counters p {
+        font-size: 17px;
+        margin: 10px 0 20px 0;
+    }
+    .counters div {
+        width: 33.3%;
+    }
+
+    #activities .activities_content{
+        order: 2;
+    }
+    #activities #multi-item-example {
+        max-height: 750px !important;
+    }
+     #activities .carousel-item h4 {
+         margin: 22px 25px;
+     }
+
+     #marketing .row {
+         display: inline-block;
+     }
+
+     #marketing .marketing-image {
+         height: 400px;
+     }
+
+    .numbers-img-second {
+        left: 2%;
+    }
+
+    #footer .footer-links{
+        width: 50%;
+    }
+
+    #footer .footer-top .footer-info h3,#footer .footer-top .footer-info p, #footer .social-links {
+        text-align: center;
+    }
+
+    #footer .footer-top .footer-links {
+        text-align: center;
+    }
+
+    #footer .footer-top .footer-links ul li {
+        display: block;
+    }
+
+    .vision-img-fourth {
+        border: 2px solid #01b1d7;
+        position: relative;
+        left: 3%;
+        top: 15%;
+        border-radius: 15px;
+        width: 105%;
+    }
+
+    .vision-img-third {
+        border: 3px solid #01b1d7;
+        position: relative;
+        left: 11%;
+        border-radius: 15px;
+        height: 100%;
+        width: 74%;
+    }
+
+    .vision-img-first {
+        border: 3px solid #01b1d7;
+        position: relative;
+        border-radius: 15px;
+        height: 175px;
+        width: 74%;
+        order: 2;
+        left: 11%;
+    }
+
+    .lang-li {
+        margin: 15px;
+        width: 91%;
+    }
+
+    .lang-div {
+        top: 81% !important;
+        right: 4% !important;
+        left: auto !important;
+        width: 92%;
+    }
+
+    .lang-div a {
+        text-align: center !important;
+    }
+
+    .parsley-errors-list li {
+        position: relative;
+        left: 22px;
+    }
+
+    .numbers-img-first {
+        height: 175px;
+        width: 320px;
+        left: 0;
+    }
+
+    .numbers-img-second {
+        left: 3% !important;
+        width: 325px;
+        height: 195px;
+    }
+
+    #iraq_in_numbers .col-md-4 {
+        margin-bottom: 45px;
+    }
+
+    #iraq_in_numbers .iraq_in_numbers_h4{
+        margin-top: 80px !important;
+    }
+
+    #hero .carousel-indicators li {
+        left: 135px;
+        top: 130px;
+    }
+
+    #hero .carousel-indicators li.active {
+        left: 135px;
+        top: 130px;
+    }
+
+    #clients .carousel {
+        position: relative;
+        padding: 0 60px 0;
+    }
+
+    #clients .carousel-indicators {
+        bottom: 90px;
+    }
+
+    #portfolio-details img {
+        width: 350px !important;
+        height: 225px !important;
+        position: relative;
+        left: 5px;
+    }
+
+    #marketing {
+        width: 350px;
+    }
+
+    #marketing .marketing-paragraph, .marketing-heading {
+        text-align: center !important;
+    }
+
+    #media .more_numbers_btn {
+        background: #01b1d7;
+        margin-top: 0 !important;
+        color: #000
+    }
+
+    #marketing .video-btn {
+        left: 25%;
+    }
+}
+
+
+@media only screen and (max-width: 568px) {
+    .first-second-parent {
+        order: 2;
+    }
+    .vision-img-first {
+        border: 3px solid #01b1d7;
+        position: relative;
+        border-radius: 15px;
+        height: 100%;
+        width: 74%;
+        order: 2;
+        left: 11%;
+    }
+
+    .vision-img-second {
+        left: 3%;
+        top: 15%;
+        border-radius: 15px;
+        width: 105%;
+    }
+
+    .vision-img-fourth {
+        border: 2px solid #01b1d7;
+        position: relative;
+        left: 3%;
+        top: 15%;
+        border-radius: 15px;
+        width: 105%;
+    }
+
+    .vision-img-third {
+        border: 3px solid #01b1d7;
+        position: relative;
+        left: 11%;
+        border-radius: 15px;
+        height: 100%;
+        width: 74%;
+    }
+    .numbers-img-first {
+        height: 175px;
+        width: 100%;
+        left: 0;
+    }
+
+    .numbers-img-second {
+        left: 3% !important;
+        width: 100%;
+        height: 195px;
+    }
+
+    #marketing {
+        width: 100%;
+    }
+
+}
